@@ -1,2 +1,2 @@
-# code-learn
-A some of code lessons saved
+# infra-code-learn
+A some of the infra and code lessons saved
