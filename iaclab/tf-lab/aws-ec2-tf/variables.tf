@@ -40,7 +40,7 @@ variable "route_table_name" {
 
 variable "key_pair_name" {
   type    = string
-  default = "labs-key"
+  default = "labs-key-test"
 }
 
 variable "instance_name" {
@@ -51,6 +51,8 @@ variable "instance_name" {
 variable "instance_ami" {
   type    = string
   default = "ami-053b0d53c279acc90"
+  #default = "ami-00beae93a2d981137"
+
 }
 
 variable "instance_type" {
